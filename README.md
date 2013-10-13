@@ -18,3 +18,4 @@ Tempolibrium is a one-time explosion in space-time. It must preserve the center 
 - `sync.sh` pushes seat-cam frames to the box after launch
 
 the launch point is in `launch.json`, which is not in this repo.
+- `log.zip` the final log. encrypted, open with 7-Zip (windows explorer can't open AES zips). ask me for the password.
